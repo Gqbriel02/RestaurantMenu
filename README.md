@@ -9,5 +9,6 @@
 1. Download the project from the download section or clone this project by typing in the bash the following command:
 ```bash
    git clone https://github.com/Gqbriel02/RestaurantMenu.git
+
 2. Import it in Intellij IDEA or any other Java IDE.
 3. Run the application.
